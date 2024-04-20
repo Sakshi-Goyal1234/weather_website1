@@ -1,0 +1,89 @@
+.navbar {
+    background-color: #007bff; /* Dark blue */
+  }
+  
+  .navbar-brand {
+    color: #fff; /* White */
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff; /* White */
+  }
+  
+  /* Main container styles */
+  .container {
+    padding: 20px;
+    background-color: #f0f8ff; /* Light blue */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  /* Heading styles */
+  h1 {
+    font-size: 28px;
+    color: #333; /* Dark gray */
+    margin-bottom: 20px;
+  }
+  
+  /* Card styles */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-header {
+    background-color: #007bff; /* Dark blue */
+    color: #fff; /* White */
+  }
+  
+  .card-body {
+    background-color: #f9f9f9; /* Light gray */
+  }
+  
+  /* Table styles */
+  .table {
+    background-color: #fff; /* White */
+  }
+  
+  .table th, .table td {
+    vertical-align: middle;
+  }
+  
+  /* Form styles */
+  .form-control {
+    border-radius: 5px;
+  }
+  
+  .btn-outline-success {
+    border-radius: 5px;
+    color: #007bff; /* Dark blue */
+    border-color: #007bff; /* Dark blue */
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #007bff; /* Dark blue */
+    color: #fff; /* White */
+  }
+  
+  /* Text color for temperature, humidity, and similar elements */
+  .temp,
+  .min_temp,
+  .max_temp,
+  .humidity,
+  .cloud_pct,
+  .feels_like,
+  .wind_speed,
+  .wind_degrees,
+  .sunrise,
+  .sunset {
+    color: #333; /* Dark gray */
+  }
+  
+  /* Footer styles */
+  .footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #666; /* Gray */
+  }
+  
